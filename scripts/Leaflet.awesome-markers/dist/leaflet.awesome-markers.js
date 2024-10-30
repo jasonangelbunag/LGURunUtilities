@@ -59,7 +59,7 @@
               var icon = document.createElement('i');
 
               icongroup.setAttribute('height', '42');
-              icongroup.setAttribute('width', '131');
+              icongroup.setAttribute('width', '31');
 
               icon.setAttribute('class', 'fas ' + options.icon);
               icon.style.color = options.iconColor;
