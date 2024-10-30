@@ -39,7 +39,7 @@
             var backgroundCircle = document.createElementNS('http://www.w3.org/2000/svg', "circle");
 
 
-            svg.setAttribute('width', '31');
+            svg.setAttribute('width', '131');
             svg.setAttribute('height', '42');
             svg.setAttribute('class', 'awesome-marker');
             svg.setAttributeNS("http://www.w3.org/2000/xmlns/", "xmlns:xlink", "http://www.w3.org/1999/xlink");
