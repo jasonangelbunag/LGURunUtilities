@@ -7,7 +7,7 @@ Version: 1.0
 /* Marker setup */
 .awesome-marker {
   background: url('images/markers-soft.png') no-repeat 0 0;
-  width: 135px;
+  width: 35px;
   height: 46px;
   position:absolute;
   left:0;
@@ -18,7 +18,7 @@ Version: 1.0
 
 .awesome-marker-shadow {
   background: url('images/markers-shadow.png') no-repeat 0 0;
-  width: 136px;
+  width: 36px;
   height: 16px;
 }
 
@@ -31,7 +31,7 @@ Version: 1.0
  }
  .awesome-marker-shadow {
   background-image: url('images/markers-shadow@2x.png');
-  background-size: 35px 16px;
+  background-size: 135px 16px;
  }
 }
 
