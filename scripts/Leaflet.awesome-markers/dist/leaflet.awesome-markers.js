@@ -39,7 +39,7 @@
             var backgroundCircle = document.createElementNS('http://www.w3.org/2000/svg', "circle");
 
 
-            svg.setAttribute('width', '131');
+            svg.setAttribute('width', '31');
             svg.setAttribute('height', '42');
             svg.setAttribute('class', 'awesome-marker');
             svg.setAttributeNS("http://www.w3.org/2000/xmlns/", "xmlns:xlink", "http://www.w3.org/1999/xlink");
@@ -59,7 +59,7 @@
               var icon = document.createElement('i');
 
               icongroup.setAttribute('height', '42');
-              icongroup.setAttribute('width', '31');
+              icongroup.setAttribute('width', '131');
 
               icon.setAttribute('class', 'fas ' + options.icon);
               icon.style.color = options.iconColor;
