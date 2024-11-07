@@ -29,7 +29,7 @@ h6 {
 }
 
 .intro-popup .leaflet-popup-tip-container {
-  width: 550;
+  width: 0;
   height: 0;
 }
 
@@ -67,7 +67,7 @@ form {
 }
 
 .leaflet-popup-content {
-  min-width: 150px;
+  min-width: 550px;
 }
 
 .leaflet-popup-content img {
